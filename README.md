@@ -1,6 +1,6 @@
-### Developing a Neural Network Classification Model
+# Developing a Neural Network Classification Model
 
-# AIM
+### AIM
 To develop a neural network classification model for the given dataset.
 
 ### Problem Statement
