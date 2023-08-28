@@ -19,11 +19,20 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Import the required packages
 
 ### STEP 2:
-
+Import the dataset to manipulate on
 ### STEP 3:
-Write your own steps
+Clean the dataset and split to training and testing data
+### STEP 4: 
+Create the Model and pass appropriate layer values according the input and output data
+### STEP 5: 
+Compile and fit the model
+### STEP 6: 
+Load the dataset into the model
+### STEP 7: 
+Test the model by predicting and output
 
 ## PROGRAM
 
