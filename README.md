@@ -37,8 +37,8 @@ Test the model by predicting and output
 
 ## PROGRAM
 ```
-Developed by: P.Siva Naga Nithin
-Register no: 212221240037
+Developed by:P.Siva Naga Nithin
+Reg No:212221240037
 ```
 ### Importing the require packages
 ```
