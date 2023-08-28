@@ -42,12 +42,12 @@ Test the model by predicting and output
 
 
 ## PROGRAM
-
+```
 Developed by: P.Siva Naga Nithin
 Register no: 212221240037
-
+```
 ### Importing the require packages
-
+```
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
@@ -67,11 +67,11 @@ from sklearn.metrics import classification_report,confusion_matrix
 import numpy as np
 import matplotlib.pylab as plt
 import sklearn.metrics as metrics
-
+```
 ### Importing the dataset
-
+```
 customer_df = pd.read_csv('customers.csv')
-
+```
 ### Data exploration
 ```
 customer_df.columns
